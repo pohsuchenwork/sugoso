@@ -1,0 +1,13 @@
+.build/
+build/
+.DS_Store
+*.xcodeproj
+
+# Local tooling / AI context — never publish
+.claude/
+*.local.json
+
+# Stray Supabase CLI state — this is the Sugoso app repo, NOT a Supabase project.
+# These files leaked in from running the website's `supabase` CLI in this directory;
+# they expose an unrelated project ref / org id and must never be published.
+supabase/

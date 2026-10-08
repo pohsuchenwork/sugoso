@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.sugoso.app</string>
+
+    <!-- install.sh fills in the real absolute path here. -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>__APP_PATH__</string>
+    </array>
+
+    <!-- Launch automatically when you log in. -->
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>
