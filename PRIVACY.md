@@ -1,7 +1,5 @@
 # Privacy Notice
 
-> **Plain-language notice - not legal advice.** This notice is accurate **while the app stays local and makes no network calls of its own** (verified in the source). If the app's data practices ever change, it must be updated, and the operator should have a privacy-qualified lawyer confirm it for their jurisdiction.
-
 **Product:** Sugoso - a macOS menu-bar focus timer.
 **Last updated:** 2026-06-10
 
@@ -27,10 +25,8 @@ The app collects no personal data from anyone, including children.
 ## Your privacy rights (GDPR, CCPA/CPRA, and similar)
 Because the Licensor does not collect or process your personal data, there is generally no personal data held by the Licensor to access, correct, delete, port, or restrict. Any settings stored on your device are under your control and are removed when you delete the app and its preferences.
 
-> [REVIEW: This is accurate **only while the app remains local and network-free.** If you later add analytics, crash reporting, cloud sync, accounts, or any data transmission, you will likely become a data controller/business with real obligations (lawful basis, disclosures, data-subject/consumer requests, possibly a Data Processing Agreement and a "Do Not Sell or Share" mechanism), and this notice must be rewritten. Engage a licensed privacy lawyer at that point. Consumer-privacy law overrides contract language.]
-
 ## Changes to this notice
 If the app's data practices change, this notice will be updated with a new "Last updated" date and distributed with the app.
 
 ## Contact
-**pohsuchenwork@gmail.com** [PLACEHOLDER: optional postal/registered address].
+**pohsuchenwork@gmail.com**

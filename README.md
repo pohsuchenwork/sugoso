@@ -169,9 +169,3 @@ and liability disclaimer.
 **Privacy:** Sugoso runs entirely on your Mac and **collects no data**: no analytics, no
 tracking, and the app makes no network calls of its own (it may offer a link that opens your
 browser to the developer's website). Verified in the source. See **[PRIVACY.md](PRIVACY.md)**.
-
-> **Not legal advice.** These documents are a plain-language template adapted for this project;
-> some items depend on your jurisdiction and entity (marked `[PLACEHOLDER]` or `[REVIEW]`) and
-> should be confirmed by a lawyer in your jurisdiction. "Sugoso" was chosen to avoid the
-> "Pomodoro Technique" trademark (claimed by Francesco Cirillo); run your own clearance on the
-> name "Sugoso" before relying on it.
